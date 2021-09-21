@@ -1,0 +1,152 @@
+
+.hader{
+    background: #3B3B98;
+}
+
+.hader img{
+    width: 132px;
+    height: auto;
+    margin-top: 10px;
+    
+}
+.hader ul{
+   
+    
+
+}
+.hader ul li{
+    display: inline-block;
+    padding: 0 40px;
+    margin-top: 30px;
+
+}
+.hader ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+/* img-section */
+.img-section{
+    background-image: url(./backround\ image.jpg);
+    padding: 150px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.text-section{
+    text-align: right;
+   
+}
+.text-section h2{
+    color: #fff;
+    background: #218c74;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.text-section h3{
+    color:#218c74;
+    background:rgba(52, 172, 224,.5);
+    max-width: 300px;
+    display: inline;
+    text-align: center;
+    padding: 10px 80px;
+    border-radius: 6px;
+    margin-right: 30px;
+    
+   
+}
+
+
+
+ /* middel-point */
+.middel-soint{
+    background: #ddd;
+    padding: 20px 20px;
+   
+    
+    
+}
+.middel-soint h2{
+    background: #D6A2E8;
+    border-radius: 5px;
+    padding: 5px 30px; 
+    display: inline-block;
+}
+.middel-point p{
+    
+}
+
+/* services */
+.services{
+    background:#0a3d62;
+    padding-top: 20px ;
+    padding-bottom: 16px;
+    
+} 
+.card{
+    background: #ddd;
+    border-radius: 5px;
+}
+.far{
+    font-size: 30px;
+    background: rgb(19, 134, 138);
+    color: #fff;
+    padding:20px 30px;
+    border-radius: 30px 0px;
+    margin-top: 15px;
+}
+/* product */
+.product{
+    background-color: #6a89cc;
+    padding: 20px 0px;
+
+}
+
+img{
+    max-width: 100%;
+}
+.left-side h2{
+    border-bottom: 3px solid rgb(20, 19, 19);
+}
+.right-side{
+    margin-top: 10px;
+    
+}
+.right-side ul{
+    list-style: none;
+    padding-left: 0;
+}
+.right-side ul li{
+    padding:15px 10px;
+    background: #afafaf;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    
+}
+
+
+.footer{
+    background:#0a3d62 ;
+}
+.footer-left{
+    display: inline-block;
+    color: #afafafaf;
+    float: left;
+    margin-top: 10px;
+
+}
+.footer-left h2{
+    font-size: 20px;
+}
+.footer-right{
+    text-align: right;
+    color: #afafaf;
+    font-size: 30px;
+    float: right;
+    
+}
+.footer-right i{
+    padding: 0px 50px;
+}
